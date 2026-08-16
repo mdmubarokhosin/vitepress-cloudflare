@@ -1,0 +1,27 @@
+{
+  "name": "VitePress Course",
+  "short_name": "VPCourse",
+  "description": "Learn to build documentation websites with VitePress and deploy to Cloudflare Pages",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFE",
+  "theme_color": "#5350C4",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/vitepress-logo-large.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/vitepress-logo-large.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "technology"]
+}

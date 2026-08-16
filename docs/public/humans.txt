@@ -1,0 +1,12 @@
+/* TEAM */
+Author: mdmubarokhosin
+Site: https://vitepress-cloudflare.pages.dev
+GitHub: https://github.com/mdmubarokhosin/vitepress-cloudflare
+
+/* TECHNOLOGY */
+Framework: VitePress v1.6+
+UI: Vue 3
+Deploy: Cloudflare Pages
+AI: Poolside AI (laguna-xs-2.1)
+Fonts: Noto Serif Bengali, Inter
+Icons: Bootstrap Icons 1.11.3
